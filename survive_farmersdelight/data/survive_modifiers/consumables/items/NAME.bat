@@ -1,1 +1,0 @@
-DIR  *.*/B>Name_list.txt
