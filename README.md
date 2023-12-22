@@ -1,6 +1,12 @@
 # Survive - Farmer's Delight Mod Compat
 Provides numerical support data pack for [Farmer's Delight](https://github.com/vectorwing/FarmersDelight)'s food and drink for [Survive](https://github.com/Stereowalker/Survive)  
 
+## How to use?
+
+Download the latest `.zip` file from the [release](https://github.com/kKsk03/survive_farmersdelight/releases) and place it inside your world's datapack folder  
+
+Then, use `/datapack enable *.zip` in the game to enable datapack
+
 ## Supported items
 
 ### Foods and drinks [itemIds]
@@ -84,3 +90,7 @@ Provides numerical support data pack for [Farmer's Delight](https://github.com/v
 ### blocks [itemIds]
 
 - stove
+
+## About
+
+This data package is updated from time to time, and may never be updated, but you can download the source code and add the json file yourself, or push me a request containing the updated file.
