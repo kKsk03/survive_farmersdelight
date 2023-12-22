@@ -1,0 +1,10 @@
+{
+	"energy": 10,
+	"thirst": 6,
+	"hydration": 0.4,
+	"thirst_chance": 0.05,
+	"gives_chilled_effect": false,
+	"gives_heated_effect": false,
+	"gives_energizing_effect": true
+  }
+  
