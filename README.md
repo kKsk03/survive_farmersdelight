@@ -1,9 +1,18 @@
 # Survive - Farmer's Delight Mod Compat
+
 Provides numerical support data pack for [Farmer's Delight](https://github.com/vectorwing/FarmersDelight)'s food and drink for [Survive](https://github.com/Stereowalker/Survive)  
 
 ## How to use?
 
-Download the latest `.zip` file from the [release](https://github.com/kKsk03/survive_farmersdelight/releases) and place it inside your world's datapack folder  
+Download the latest `.zip` file from the [release](https://github.com/kKsk03/survive_farmersdelight/releases)  
+
+### Enabled in new world
+
+> In the create world menu, look for the data pack button, click it, then open its designated folder, and place the `.zip` file in it.
+
+### Enable in existing world
+
+> Go to the folder of your world archive, open the `datapack` folder, and place the `.zip` file in it.
 
 Then, use `/datapack enable *.zip` in the game to enable datapack
 
