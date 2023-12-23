@@ -11,6 +11,7 @@ Then, use `/datapack enable *.zip` in the game to enable datapack
 
 ### Foods and drinks [itemIds]
 
+- apple_cider
 - apple_pie
 - apple_pie_slice
 - bacon
@@ -31,12 +32,14 @@ Then, use `/datapack enable *.zip` in the game to enable datapack
 - chocolate_pie
 - chocolate_pie_slice
 - cod_roll
+- cod_slice
 - cooked_bacon
 - cooked_chicken_cuts
 - cooked_cod_slice
 - cooked_mutton_chops
 - cooked_rice
 - cooked_salmon_slice
+- dog_food
 - dumplings
 - egg_sandwich
 - fish_stew
@@ -48,10 +51,12 @@ Then, use `/datapack enable *.zip` in the game to enable datapack
 - ham
 - hamburger
 - honey_cookie
+- honey_glazed_ham
 - honey_glazed_ham_block
 - hot_cocoa
 - kelp_roll
 - kelp_roll_slice
+- melon_juice
 - melon_popsicle
 - milk_bottle
 - minced_beef
@@ -69,13 +74,18 @@ Then, use `/datapack enable *.zip` in the game to enable datapack
 - pumpkin_soup
 - ratatouille
 - raw_pasta
+- rice_roll_medley_block
 - roasted_mutton_chops
 - roast_chicken
 - roast_chicken_block
 - salmon_roll
 - salmon_slice
+- shepherds_pie
+- shepherds_pie_block
+- smoked_ham
 - squid_ink_pasta
 - steak_and_potatoes
+- stuffed_potato
 - stuffed_pumpkin
 - stuffed_pumpkin_block
 - sweet_berry_cheesecake
